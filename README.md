@@ -2,11 +2,11 @@
 
 Simple Boilerplate for building simple prototypes using ES6 and Sass.
 
-#####Development files :
+#### Development files :
   - Import additional ES6 modules into src/app.js
   - Import additional Scss into src/styles/main.scss
 
-#####Minified & processed will be saved here:
+#### Minified & processed will be saved here:
   - dist/css
   - dist/js
 
