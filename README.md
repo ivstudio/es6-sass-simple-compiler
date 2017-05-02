@@ -1,12 +1,14 @@
-# ES6 Sass Simple Compiler - ES6, Sass and HTML5 Boilerplate
+## ES6 Sass Simple Compiler
 
-Simple Boilerplate for building simple prototypes using ES6 and Sass.
 
-#### Development files :
-  - Import additional ES6 modules into src/app.js
-  - Import additional Scss into src/styles/main.scss
+Front-end boilerplate kit for building simple prototypes using ES6, Sass and HTML5 Boilerplate with Babel and Gulp.
+Intended to be simple and to keep you productive.
 
-#### Minified & processed will be saved here:
+#### `Src folder has development files:`
+  - src/app.js
+  - src/styles/main.scss
+
+#### `Dist folder has minified, compiled and media files:`
   - dist/css
   - dist/js
 

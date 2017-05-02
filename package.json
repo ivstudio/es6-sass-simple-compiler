@@ -1,7 +1,7 @@
 {
   "name": "es6-sass-simple-compiler",
   "version": "1.0.0",
-  "description": "ES6 and Sass Simple compiler with HTML5 bolierplate",
+  "description": "ES6 and Sass Simple compiler",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
